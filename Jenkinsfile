@@ -1,4 +1,3 @@
-
 pipeline{
   
 // all pipeline code will be written here
@@ -19,7 +18,7 @@ stages{
     {
         steps{
             
-            git 'https://github.com/Lejonet80/DevOps_train.git'
+            git 'https://github.com/Sonal0409/DevOpsCodeDemo.git'
         }
         
     }
