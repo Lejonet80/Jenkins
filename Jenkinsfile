@@ -19,7 +19,7 @@ stages{
     {
         steps{
             
-            git 'https://github.com/Sonal0409/DevOpsCodeDemo.git'
+            git 'https://github.com/Lejonet80/DevOps_train.git'
         }
         
     }
